@@ -1,9 +1,5 @@
 # A-Case-Study-On-CMOS
 
-A CMOS inverter (Complementary Metal-Oxide-Semiconductor inverter) is one of the most fundamental logic gates in digital electronics. It inverts the input logic signal, producing a high output for a low input and vice versa. The CMOS inverter is composed of two types of MOSFET transistors: PMOS (P-type MOS) and NMOS (N-type MOS). These transistors work in a complementary fashion to switch between logic states with minimal power consumption, which is one of the key reasons CMOS technology is so widely used in modern digital circuits.
-
-# Theory of CMOS Inverter
-
 A **CMOS inverter** (Complementary Metal-Oxide-Semiconductor inverter) is one of the most fundamental logic gates in digital electronics. It inverts the input logic signal, producing a high output for a low input and vice versa. The CMOS inverter is composed of two types of MOSFET transistors: PMOS (P-type MOS) and NMOS (N-type MOS). These transistors work in a complementary fashion to switch between logic states with minimal power consumption, which is one of the key reasons CMOS technology is so widely used in modern digital circuits.
 
 ## 1. Basic Structure of CMOS Inverter
